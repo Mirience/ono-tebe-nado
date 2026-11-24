@@ -12,3 +12,5 @@ HTML5, CSS3. Страница собрана без сборщика и откр
 - `styles/global.css` — общие стили из шаблона;
 - `styles/style.css` — стили страницы;
 - `fonts/`, `images/` — шрифты и изображения из шаблона.
+
+https://github.com/Mirience/ono-tebe-nado
